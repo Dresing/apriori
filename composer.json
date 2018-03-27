@@ -1,0 +1,16 @@
+{
+    "name": "anole15/apriori",
+    "authors": [
+        {
+            "name": "Andreas Olesen",
+            "email": "dresing@live.dk"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Apriori\\": ["src", "tests"]
+      }
+  }    
+}
